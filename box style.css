@@ -1,0 +1,44 @@
+body {
+  background-color: #EEEEEE;
+  font-family:helvetica, arial, sans-serif;
+}
+a{
+  text-decoration: none;
+  color: red;
+}
+#container {
+  background-color: white;
+  width: 900px;
+  margin-left: auto;
+  margin-right: auto;
+}
+#header {
+  background-color: purple;
+  color:white;
+  text-align: center;
+  padding: 1px;
+}
+#content {
+  padding: 10px;
+}
+#content img {
+  max-width: 100%;
+  max-height: 100%;
+  padding-left:5px;
+  padding-right: 10px;
+}
+#final{
+  text-align: center;
+}
+#final img{
+  max-width: 80%;
+  max-height: 80%;
+  padding-bottom: 20px;
+}
+#footer{
+  clear: both;
+  padding: 10px;
+  background-color: #999999;
+  color: white;
+  text-align: right;
+}
